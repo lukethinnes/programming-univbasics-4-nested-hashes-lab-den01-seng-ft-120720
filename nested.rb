@@ -71,7 +71,6 @@ def adding_matz
         :known_for => "Unix",
         :languages => ["C"]
       }
-			}
 		}
 end
 
